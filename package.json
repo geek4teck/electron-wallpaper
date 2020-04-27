@@ -1,0 +1,24 @@
+{
+  "name": "electron-wallpaper",
+  "version": "1.0.0",
+  "description": "Electron Application to change wallpaper of PC after every few minutes ",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/geek4teck/electron-wallpaper.git",
+  "keywords": [
+    "Electron",
+    "Wallpaper",
+    "Electron-Wallpaper",
+    "PC Wallpaper"
+  ],
+  "author": "Vishal Goyal",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^8.2.3"
+  },
+  "dependencies": {
+    "wallpaper": "^4.4.1"
+  }
+}
